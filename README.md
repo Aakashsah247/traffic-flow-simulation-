@@ -13,6 +13,18 @@ The simulation represents an intersection containing four traffic approaches:
 
 Vehicles are generated automatically and move through the intersection according to their assigned direction. Traffic lights and nearby vehicles influence whether a vehicle can continue moving.
 
+## Application Screenshots
+
+The following screenshots demonstrate the traffic simulation during execution, including vehicle movement, traffic signals, road markings, and live vehicle statistics.
+
+### Simulation Output – 1
+
+![Traffic Flow Simulation Output 1](screenshots/traffic-flow-simulation-01.png)
+
+### Simulation Output – 2
+
+![Traffic Flow Simulation Output 2](screenshots/traffic-flow-simulation-02.png)
+
 ## Features
 
 - **Four-lane intersection:** Visualizes two horizontal and two vertical traffic approaches.
