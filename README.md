@@ -19,11 +19,11 @@ The following screenshots demonstrate the traffic simulation during execution, i
 
 ### Simulation Output – 1
 
-![Traffic Flow Simulation Output 1](screenshots/traffic-flow-simulation-01.png)
+![Traffic Flow Simulation Output 1](traffic-flow-simulation-01.png)
 
 ### Simulation Output – 2
 
-![Traffic Flow Simulation Output 2](screenshots/traffic-flow-simulation-02.png)
+![Traffic Flow Simulation Output 2](traffic-flow-simulation-02.png)
 
 ## Features
 
